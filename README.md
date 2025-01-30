@@ -1,6 +1,6 @@
 # 👋 Hello, I'm **Tonips22** 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tonips22&theme=onedark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tonips22&theme=onedark&hide_border=true&border_radius=10&date_format=%5BY%20%5DM%20j&background=00000000)](https://git.io/streak-stats)
 
 ## **Who am I?**
 I'm a **front-end–focused developer** on the path to becoming **Full Stack**, always aiming to build **creative and efficient solutions**. On my **GitHub** profile, you'll find projects that demonstrate my passion for crafting engaging user interfaces while also exploring backend possibilities. I'm constantly seeking new challenges that help me learn, experiment, and enhance my skills.
