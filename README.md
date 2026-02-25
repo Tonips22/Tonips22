@@ -10,13 +10,14 @@ On my GitHub, I share projects that reflect my curiosity, continuous learning, a
 ---
 
 ## **Technologies I use**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,astro,react,tailwind,php,java,cpp,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,astro,react,tailwind,figma,github,php,supabase,vercel,photoshop)](https://skillicons.dev)
 
-I bring ideas to life using **HTML5**, **CSS**, and **JavaScript/TypeScript**, building dynamic interfaces with **Astro**, **React**, and **TailwindCSS**.  
+I build modern web experiences using **TypeScript**, **Astro**, **React**, and **TailwindCSS**, focusing on clean UI and smooth performance.
 
-While my main focus is frontend development, I also work with **PHP** on the backend to create structured and efficient solutions. My experience with **Java** and **C++** has strengthened my programming fundamentals and problem-solving skills.
+I could design and prototype interfaces with **Figma**, manage code with **GitHub**, and deploy projects using **Vercel**.
+On the backend side, I usually work with **Supabase** to handle data and authentication efficiently.
 
-I always aim for clean, efficient, and well-organized code.
+I care about clean, scalable code and solid visual details, supported by tools like **Photoshop**.
 
 
 
